@@ -78,4 +78,5 @@ function newgame() {
     gcount = 0;
     gScore.textContent = 0;
     hScore.textContent = 0;
+    update.textContent = "The game begins soon. Get seated!";
 }
